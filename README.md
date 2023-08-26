@@ -41,6 +41,11 @@ i'm currently working at bit mascor -->
 	<img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind-00D8FF?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
+
+<h3>🛠 Learning</h3>
+
+- 🌐 &nbsp; Java | Spring-boot | Hibernet JPA | Spring-MVC
+
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrahmanashiq&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrahmanashiq&theme=radical&hide_border=false)<br/>

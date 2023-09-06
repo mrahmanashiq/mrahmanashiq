@@ -44,7 +44,7 @@ i'm currently working at bit mascor -->
 
 <h3>🛠 Learning</h3>
 
-- 🌐 &nbsp; Java | Spring-boot | Hibernet JPA | Spring-MVC
+- 🌐 &nbsp; Java | Spring-boot | Hibernet JPA | Spring-MVC | Vue.js
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrahmanashiq&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>

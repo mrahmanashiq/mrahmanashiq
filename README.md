@@ -41,6 +41,10 @@ i'm currently working at bit mascor -->
 	<img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind-00D8FF?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
+## 🕸️ Portfolio
+- https://mrahmanashiq.vercel.app/
+- https://mrahmanashiq.github.io/
+
 
 <h3>🛠 Learning</h3>
 

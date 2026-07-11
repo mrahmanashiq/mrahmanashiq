@@ -1,7 +1,7 @@
 <div align="center">
 I'm Mizanur Rahman Ashiq 👋
 
-**Software Engineer** at Bit Mascot Ltd. | Backend Developer | Full-Stack Enthusiast
+**Software Engineer** at WebAlive. | Backend Developer | Full-Stack Enthusiast
 
 *Building scalable web applications with modern technologies. Passionate about clean code, system design, and exploring new frameworks.*
 </div>
